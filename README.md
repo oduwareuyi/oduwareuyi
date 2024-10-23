@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oduwareuyi
 - 👀 I’m interested in working together
 to make great projects
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python and Rust
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me oduwareuyi3@gmail.com
 
